@@ -1,4 +1,8 @@
-.vscode
+# vscode settings
+.vscode/
 
-.gradle
-build
+# grade
+.gradle/
+
+# output
+build/
